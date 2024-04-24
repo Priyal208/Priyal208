@@ -3,8 +3,6 @@
 
 - 🔭 I’m currently working on [Institute Website](https://github.com/Priyal208/ronakweb)
 
-- 👨‍💻 Details of all my projects [https://drive.google.com/file/d/18qDGw1Lz-gaz0x7OF9mUTBH99GyPnF8I/view?usp=drive_link](https://drive.google.com/file/d/18qDGw1Lz-gaz0x7OF9mUTBH99GyPnF8I/view?usp=drive_link)
-
 - 📫 How to reach me **priyalrwl.20@gmail.com**
 
 - 📄 My resume [https://drive.google.com/file/d/18qDGw1Lz-gaz0x7OF9mUTBH99GyPnF8I/view?usp=drive_link](https://drive.google.com/file/d/18qDGw1Lz-gaz0x7OF9mUTBH99GyPnF8I/view?usp=drive_link)
