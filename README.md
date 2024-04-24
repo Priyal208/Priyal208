@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **priyalrwl.20@gmail.com**
 
-- 📄 My resume [https://drive.google.com/file/d/18qDGw1Lz-gaz0x7OF9mUTBH99GyPnF8I/view?usp=drive_link](https://drive.google.com/file/d/18qDGw1Lz-gaz0x7OF9mUTBH99GyPnF8I/view?usp=drive_link)
+- 📄 My resume (includes details/code of all my projects which are not uploaded here- make sure to check out!🙂) [https://drive.google.com/file/d/18qDGw1Lz-gaz0x7OF9mUTBH99GyPnF8I/view?usp=drive_link](https://drive.google.com/file/d/18qDGw1Lz-gaz0x7OF9mUTBH99GyPnF8I/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
