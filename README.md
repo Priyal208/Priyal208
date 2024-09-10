@@ -1,11 +1,11 @@
 <h1 align="center">Hello 👋, I'm Priyal Rawal</h1>
 <h3 align="center">Passionate Computer Science Student from India</h3>
 
-- 🔭 I’m currently working on [Institute Website](https://github.com/Priyal208/ronakweb)
+- 🔭 I’m currently working on [Event Toolkit](https://github.com/shubhdoshi21/Event-Toolkit)
 
 - 📫 How to reach me **priyalrwl.20@gmail.com**
 
-- 📄 My resume (includes details/code of all my projects which are not uploaded here- make sure to check out!🙂) [https://drive.google.com/file/d/18qDGw1Lz-gaz0x7OF9mUTBH99GyPnF8I/view?usp=drive_link](https://drive.google.com/file/d/18qDGw1Lz-gaz0x7OF9mUTBH99GyPnF8I/view?usp=drive_link)
+- 📄 My resume (includes details/code of all my projects which are not uploaded here- make sure to check out!🙂) [My resume](https://drive.google.com/file/d/1Z8p095PQ_3Uaavs-69ax9k7a3hX9GUx8/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
