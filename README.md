@@ -3,10 +3,6 @@
 
 - 🔭 I’m currently working on [Event Toolkit](https://github.com/shubhdoshi21/Event-Toolkit)
 
-- 📫 How to reach me **priyalrwl.20@gmail.com**
-
-- 📄 My resume (includes details/code of all my projects which are not uploaded here- make sure to check out!🙂) [My resume](https://drive.google.com/file/d/1Z8p095PQ_3Uaavs-69ax9k7a3hX9GUx8/view?usp=sharing)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/priyal-rawal-18ba42245/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/priyal-rawal-18ba42245/" height="30" width="40" /></a>
